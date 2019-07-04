@@ -1,5 +1,5 @@
 package main
-
+//git test comment
 import "fmt"
 
 func foo(c chan int, somevalue int){
